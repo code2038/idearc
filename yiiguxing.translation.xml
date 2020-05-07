@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Time Millis" />
+      <item value="Millis" />
       <item value="Docket" />
       <item value="ored" />
       <item value="ored Criteria" />
@@ -9,8 +11,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
         <entry key="ARABIC" value="2" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
