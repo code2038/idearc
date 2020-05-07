@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isHighContrast" value="true" />
+    <option name="isPsiIcons" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="30" />
+    <option name="accentColor" value="e95e47" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="-5ba2785e:171ee5bcfac:-8000" />
+    <option name="version" value="4.2.2" />
+  </component>
+</application>

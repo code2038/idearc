@@ -3,7 +3,7 @@
     <property name="created">2020-05-04T03:03:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-05-06T02:38:04</property>
+    <property name="modified">2020-05-07T17:11:00</property>
     <property name="originalScheme">One Dark italic</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,25 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_ADDED" value="50fa7b" />
+    <option name="FILESTATUS_DELETED" value="6272a4" />
+    <option name="FILESTATUS_HIJACKED" value="f1fa8c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffb86c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff79c6" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff79c6" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff79c6" />
+    <option name="FILESTATUS_MERGED" value="bd93f9" />
+    <option name="FILESTATUS_MODIFIED" value="8be9fd" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd" />
+    <option name="FILESTATUS_OBSOLETE" value="ffb86c" />
+    <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
+    <option name="FILESTATUS_SWITCHED" value="ffb86c" />
+    <option name="FILESTATUS_UNKNOWN" value="bd93f9" />
+    <option name="FILESTATUS_addedOutside" value="6272a4" />
+    <option name="FILESTATUS_changelistConflict" value="ff79c6" />
+    <option name="FILESTATUS_modifiedOutside" value="bd93f9" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -186,7 +204,7 @@
         <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -436,7 +454,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -882,7 +900,7 @@
     <option name="GQL_ID">
       <value />
     </option>
-    <option name="Groovy method declaration" baseAttributes="" />
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -899,7 +917,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -929,7 +947,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1129,7 +1147,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="" />
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1168,7 +1186,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
@@ -1526,7 +1544,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1960,14 +1978,14 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -1998,7 +2016,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2128,7 +2146,7 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
