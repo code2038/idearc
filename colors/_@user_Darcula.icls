@@ -3,10 +3,13 @@
     <property name="created">2020-05-04T03:03:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-05-09T22:28:31</property>
+    <property name="modified">2020-05-09T22:31:22</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="3a3a2c" />
@@ -30,6 +33,15 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
