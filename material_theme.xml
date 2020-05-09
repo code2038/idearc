@@ -1,13 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
     <option name="fileIcons" value="false" />
-    <option name="isDecoratedFolders" value="false" />
+    <option name="isCompactMenus" value="true" />
     <option name="isHighContrast" value="true" />
-    <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
     <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="0f111a" />
-    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="accentColor" value="e911cc" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-5ba2785e:171ee5bcfac:-8000" />
     <option name="version" value="4.2.2" />
   </component>
