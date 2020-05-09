@@ -4,7 +4,7 @@
     <property name="created">2020-05-07T16:58:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-05-09T22:16:46</property>
+    <property name="modified">2020-05-09T22:21:06</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <console-font>
@@ -55,6 +55,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="676e95" />
     <option name="QUESTION_HINT" value="292d3e" />
+    <option name="READONLY_BACKGROUND" value="0" />
     <option name="RECENT_LOCATIONS_SELECTION" value="202331" />
     <option name="RIGHT_MARGIN_COLOR" value="4e5579" />
     <option name="SELECTED_INDENT_GUIDE" value="ab47bc" />
