@@ -4,7 +4,7 @@
     <property name="created">2020-05-07T16:58:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-05-15T13:37:37</property>
+    <property name="modified">2020-05-15T13:39:12</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <console-font>
@@ -994,6 +994,12 @@
       <value>
         <option name="FOREGROUND" value="8f93a2" />
         <option name="BACKGROUND" value="717cb4" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="IVAR">
