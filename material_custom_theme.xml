@@ -12,9 +12,9 @@
     <option name="secondaryBackgroundColor" value="32424aff" />
     <option name="buttonColor" value="e1e9aeff" />
     <option name="selectionForegroundColor" value="ffffffff" />
-    <option name="selectionBackgroundColor" value="546e7aff" />
+    <option name="selectionBackgroundColor" value="e9376fff" />
     <option name="textColor" value="607d8bff" />
-    <option name="foregroundColor" value="b0bec5ff" />
+    <option name="foregroundColor" value="91a5fcff" />
     <option name="backgroundColor" value="263238ff" />
   </component>
 </application>
