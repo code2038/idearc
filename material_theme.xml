@@ -2,10 +2,11 @@
   <component name="MaterialThemeConfig">
     <option name="darkTitleBar" value="true" />
     <option name="fileIcons" value="false" />
+    <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="monochromeIcons" value="true" />
     <option name="tabsHeight" value="30" />
-    <option name="accentColor" value="e911cc" />
+    <option name="accentColor" value="fafafa" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-5ba2785e:171ee5bcfac:-8000" />
     <option name="version" value="4.2.2" />
