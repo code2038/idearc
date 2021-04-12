@@ -826,7 +826,7 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+    <option name="JS.REGEXP" baseAttributes="" />
     <option name="JS.SEMICOLON">
       <value>
         <option name="FOREGROUND" value="798194" />
