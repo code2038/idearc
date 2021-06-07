@@ -3,7 +3,7 @@
     <property name="created">2020-05-04T03:03:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2021-05-21T08:44:06</property>
+    <property name="modified">2021-06-07T18:35:45</property>
     <property name="originalScheme">One Dark vivid italic</property>
   </metaInfo>
   <colors>
@@ -1953,7 +1953,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="61afef" />

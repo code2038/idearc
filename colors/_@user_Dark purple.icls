@@ -3,7 +3,7 @@
     <property name="created">2020-05-04T03:03:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2021-05-21T08:44:06</property>
+    <property name="modified">2021-06-07T18:35:45</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -56,7 +56,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="dd3962" />
@@ -552,7 +552,7 @@
         <option name="BACKGROUND" value="666666" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_ANNOTATION">
       <value>
